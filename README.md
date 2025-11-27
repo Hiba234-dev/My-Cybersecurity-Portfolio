@@ -1,20 +1,22 @@
 # My-Cybersecurity-Portfolio
 A collection of my cybersecurity projects , labs  and documentation
 
+# Cybersecurity Portfolio
+
 Welcome to my cybersecurity portfolio!  
 This repository contains a collection of projects, labs, reports, and hands-on work completed during my cybersecurity training program.
 
 ---
 
-🔐 About Me
+## 🔐 About Me
 I am a cybersecurity learner passionate about protecting systems, analyzing threats, and understanding security fundamentals.  
 This portfolio documents my progress and showcases my practical skills in different security domains.
 
 ---
 
-📁 Portfolio Contents
+## 📁 Portfolio Contents
 
-##*1. Security Audits*
+### *1. Security Audits*
 - Security audit reports
 - Risk assessments
 - Security recommendations
